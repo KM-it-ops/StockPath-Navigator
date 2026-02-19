@@ -515,6 +515,4 @@ When the user first interacts:
 | Plan Management | None | Max 5 active plans, expiry dates, auto-cleanup |
 | Companion App | None | Interactive React Dashboard artifact (separate file) |
 
----
 
-*StockPath Navigator v3.0 — Engineered by Claude Prompt Science Lab*
