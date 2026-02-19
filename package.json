@@ -1,0 +1,38 @@
+{
+  "name": "stockpath-navigator",
+  "version": "3.0.0",
+  "description": "AI-powered stock trading companion built through advanced prompt engineering, with an interactive React dashboard for portfolio tracking and trade journaling.",
+  "main": "dashboard/StockPathDashboard.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "prompt-engineering",
+    "stocks",
+    "trading",
+    "ai",
+    "llm",
+    "portfolio-tracker",
+    "react-dashboard",
+    "claude",
+    "gpt4",
+    "financial-analysis"
+  ],
+  "author": "Mahmoud",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KM-it-ops/stockpath-navigator"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
